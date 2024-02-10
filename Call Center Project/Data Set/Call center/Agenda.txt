@@ -1,0 +1,16 @@
+KPI's:
+* total number of calls
+* total duration in hours and minutes also
+* Average call duration in minutes
+* Response Time Percentage
+ Charts :
+* Total call by day
+* Total calls by State (map)
+* Top Reason for Calls (tree map)
+* Total Calls by Channel (donut chart)
+* Total calls by sentiments (col chart)
+* Total calls by call center (bar chart) 
+
+Overall :
+ fiters by date , channels and city
+One page for detail of all customer name with relevant information
